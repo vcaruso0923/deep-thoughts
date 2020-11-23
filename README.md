@@ -12,6 +12,8 @@ An app to allow users to share their thoughts and allow other users to respond t
 * [Tests](#tests)
 * [Questions](#questions)
 
+![deepthoughts](https://user-images.githubusercontent.com/62676730/100020338-87b30c00-2d94-11eb-8057-16a03cabd4a3.PNG)
+
 ## Installation
 
 Clone the repo, install all dependencies with 'npm i'
